@@ -36,7 +36,8 @@ Generador de paletas de colores aleatorias con soporte para formatos HSL y HEX. 
 
 ```
 colorfly-studio/
-├── index.html
+├── html/
+│   └── index.html
 ├── css/
 │   └── style.css
 ├── js/
