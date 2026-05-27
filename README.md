@@ -77,20 +77,18 @@ Se usa la API `navigator.clipboard.writeText()` para copiar el código de color.
 
 Este proyecto fue desarrollado con apoyo de herramientas de IA para:
 
-- Refinar la lógica de detección de luminosidad para el texto adaptativo
-- Revisar y mejorar la estructura semántica del HTML
+- Organizar la lógica de detección de luminosidad para el texto adaptativo
+- Revisar y mejorar la estructura del HTML
 - Sugerir mejoras de accesibilidad y UX en los botones de copia
-
-> Los prompts y capturas de evidencia se encuentran en la carpeta `/docs/prompts/` del repositorio.
 
 ---
 
 ## 🔮 Mejoras futuras
 
-- [ ] Soporte para formato RGBA
+- [ ] Generar formato RGBA
 - [ ] Bloqueo individual de colores (para regenerar solo los no bloqueados)
 - [ ] Animación de transición al generar nueva paleta
-- [ ] Exportar paleta como imagen o JSON
+- [ ] Exportar paleta como imagen
 - [ ] Modo oscuro
 
 ---
