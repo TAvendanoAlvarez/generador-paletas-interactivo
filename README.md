@@ -1,6 +1,6 @@
 # 🎨 Colorfly Studio
 
-Generador de paletas de colores aleatorias con soporte para formatos HSL y HEX. Construido con HTML, CSS y JavaScript vanilla.
+Generador de paletas de colores aleatorias con soporte para formatos HSL y HEX. Construido con HTML, CSS y JavaScript.
 
 ---
 
