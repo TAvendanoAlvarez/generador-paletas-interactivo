@@ -4,11 +4,15 @@ Generador de paletas de colores aleatorias con soporte para formatos HSL y HEX. 
 
 ---
 
-## 🚀 Demo en vivo
+## 🚀 Demo en video
 
-🔗 [Ver proyecto en GitHub Pages](https://youtu.be/vBq0kpolJjo)
+🔗 [Ver proyecto en YouTube](https://youtu.be/vBq0kpolJjo)
 
 ---
+
+## 🚀 Demo en video
+
+🔗 [Ver proyecto en GitHub Pages]([https://youtu.be/vBq0kpolJjo](https://tavendanoalvarez.github.io/ProyectoM1_ThomasAvenda-o/html/index.html))
 
 ## ✨ Funcionalidades
 
