@@ -6,7 +6,7 @@ Generador de paletas de colores aleatorias con soporte para formatos HSL y HEX. 
 
 ## 🚀 Demo en vivo
 
-🔗 [Ver proyecto en GitHub Pages](https://TAvendanoAlvarez.github.io/colorfly-studio)
+🔗 [Ver proyecto en GitHub Pages](../Videos/Grabaciones%20de%20pantalla/Grabación%20de%20pantalla%202026-05-27%20101905.mp4)
 
 ---
 
